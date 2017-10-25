@@ -2,6 +2,7 @@ package org.test.observer;
 
 
 /**
+ * 主题
  * Created by lichao on 2017/9/5.
  */
 public interface Subject {
