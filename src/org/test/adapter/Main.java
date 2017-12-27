@@ -8,6 +8,9 @@ package org.test.adapter;
  *
  * 设计原则:
  * 最少知识原则/得墨忒耳法则(Law of Demeter)
+ *
+ * 1. 模拟火鸡适配鸭子接口
+ * 2. 模拟家庭影院
  * Created by licha on 2017/12/27.
  */
 public class Main {
